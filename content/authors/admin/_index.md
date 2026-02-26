@@ -83,7 +83,7 @@ work:
     company_name: Amazon Alexa Science
     company_url: ''
     company_logo: ''
-    date_start: 2025-04-14
+    date_start: 2024-04-14
     date_end: 2025-03-19
     summary: |
       LLM inference optimization and responsible AI:
